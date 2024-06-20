@@ -3,8 +3,8 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "appName": {
-            "value": "Contact DB"
-        }
+            "value": "Contact007"
+        
         // "appServicePlanName": {
         //     "value": "yourAppServicePlanName"
         },
